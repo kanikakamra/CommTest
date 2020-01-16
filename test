@@ -1,8 +1,0 @@
-     {
-     userDate = new Date();
-     y = userDate.getFullYear();
-     m = userDate.getMonth();
-     d = userDate.getDate();
-
-     return y + m + d;
-}
